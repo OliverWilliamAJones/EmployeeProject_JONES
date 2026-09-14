@@ -1,4 +1,4 @@
-package version1;
+package Version1;
 
 public class Main {
 
