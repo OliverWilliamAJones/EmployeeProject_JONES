@@ -3,10 +3,6 @@ import Version1.CommissionEmployee;
 import Version1.HourlyEmployee;
 import Version1.PieceWorkerEmployee;
 
-import Version2.Version2_HourlyEmployee;
-import Version2.MyDate;
-import Version2.Name;
-
 public class Main {
 
     public static void main(String[] args) {
